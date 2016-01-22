@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="favicon.ico" rel="icon" type="image/x-icon">
+    <title>Koa</title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport">
+    <link href="http://fonts.useso.com/css?family=Merriweather+Sans:300" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="base.css">
+    <script src="http://cdn.jsdelivr.net/vue/1.0.13/vue.min.js"></script>  
+    <script src="https://cdn.socket.io/socket.io-1.4.3.js"></script>
+</head>
+<body>
+   
+    <h1>Game #</h1>
+    <div id="role">
+        <h3 class="role_a" v-if="first">Hello Red</h3>
+        <h3 class="role_b" v-else>Hello Blue</h3>
+    </div>
+    <div id="board">
+        <div class="left">
+            <mark id="1"></mark>
+            <mark id="4"></mark>
+            <mark id="7"></mark>
+        </div>
+        <div class="half">
+            <mark id="2"></mark>
+            <mark id="5"></mark>
+            <mark id="8"></mark>
+        </div>
+        <div class="right">
+            <mark id="3"></mark>
+            <mark id="5"></mark>
+            <mark id="9"></mark>
+        </div>
+    </div>
+    <script src="funcb.js"></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+ html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    overflow-y: hidden;
+    padding: 0;
+    text-align: center;
+    font-family: 'Merriweather Sans',sans-serif;
+}
+
+/*Role style*/
+.role_a{
+    color: #C51F1F;
+}
+.role_b{
+    color: #29AEA8;
+ }
+ 
+ #board{
+     border-radius: 4%;
+     width: 72%;
+     margin: auto auto;
+     height: 0;
+     padding-bottom: 73%;
+     background-color: #ccc;
+ }
+ 
+ /*cheese*/
+ .cheese{
+    width: 100%;
+    height: 0;
+    padding-bottom: 100%;
+    border: #000 2px solid;
+    border-radius: 12%; 
+ }
+ 
+ .cheese_a{
+     background: url("a.svg");
+     background-size: 100% 100%;
+ }
+ 
+ .cheese_b{
+     background: url("b.svg");
+     background-size: 100% 100%;
+ }
+
+.left{
+    float: left;
+    width: 32%;
+}
+
+.half{
+    width: 32%;
+    margin-left: 33%;
+}
+
+.right{
+    margin-top: -100%;
+    margin-left: 66%;
+    width: 32%;
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 744.09448819 1052.3622047"
+   height="297mm"
+   width="210mm"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="b.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="779"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.22425739"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.1811"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5754">
+      <stop
+         id="stop5756"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="matrix(1.5413127,0,0,1.643369,-125.25326,-171.5501)">
+    <path
+       id="path6251"
+       d="m 457.14286,266.64792 c 1.06347,0.23544 -1.38158,21.77199 -11.79538,55.27284 -10.61645,34.1528 -28.77193,77.75232 -58.9491,123.06573 -10.06405,15.11196 -20.56671,29.06139 -31.25028,41.86324 -11.8815,14.23233 -27.81766,31.38413 -37.73716,42.4901 -33.44275,37.44412 -52.92434,64.17841 -54.5538,63.02237 -1.15278,-0.81786 15.87543,-29.37424 48.30334,-68.40619 7.32311,-8.81479 27.38357,-31.908 36.54856,-43.22418 10.30258,-12.7163 20.4927,-26.46131 30.36638,-41.28803 29.66349,-44.54395 48.31158,-86.55282 60.57745,-119.7956 11.96171,-32.41843 16.87159,-53.35858 18.48999,-53.00028 z"
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6281"
+       d="m 511.42857,569.50506 c -1.84403,2.05357 -66.06063,-52.59976 -143.34063,-121.99404 -77.28,-69.39429 -138.5034,-127.38096 -136.65937,-129.43453 1.84403,-2.05357 66.06063,52.59976 143.34063,121.99404 77.28,69.39429 138.5034,127.38096 136.65937,129.43453 z"
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+{
+  "name": "koademo",
+  "version": "1.0.0",
+  "description": "Koademo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js --harmony"
+  },
+  "author": "MKFMIKU",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.1.2",
+    "koa-favi": "^0.1.0",
+    "koa-gzip": "^0.1.0",
+    "koa-static": "^2.0.0",
+    "koa.io": "0.0.3",
+    "socket.io": "^1.4.4"
+  }
+}
